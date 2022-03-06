@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SK-Intent-Sederhana__JVm</string>
+    <string name="Button_Pindah_Activity">Pindah Activity</string>
+    <string name="Button_Pindah_Activity_Dengan_Data">Pindah Activity Dengan Data</string>
+    <string name="Dial_Nomor">Dial Nomor</string>
+    <string name="Data_Diterima">Data Diterima</string>
+    <string name="Ini_Pindah_Activity">Ini Pindah Activity</string>
+    <string name="TextView_DataMasukan">Data Masukan</string>
+    <string name="Button_Dial_Nomor">Dial Nomor</string>
+</resources>
